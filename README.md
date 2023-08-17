@@ -1,67 +1,47 @@
-<img src="https://uploads-ssl.webflow.com/63ea697d8f7b54de1d5f6f7f/63ea697d8f7b540f4a5f6fa8_LaunchScience_logo_primary_positive.svg"  width="50%">
+<img src="https://drive.google.com/uc?id=1hZON-odzDSw_3gBTYn13Yxh9ycm84C9d"  width="10%" style="border-radius:60px"> 
 
-## Who are we?
+## Who am I?
 
-LaunchScience is a well-funded startup building marketing Saas for product people: https://launchscience.com.
+I'm Nick Navarro, a Software Engineer stationed in Miami, FL!
 
-**We're building the Go-to-Market platform.** Our customers ship product fast and often. But too often their marketing processes are in left in the dark ages, leading to miscommunication and missed opportunities. LaunchScience is the missing tool for product owners with deadlines.
+[Resume Link](https://drive.google.com/file/d/1rG2krXCDCUKPfaNzUfh_4VOB45vjsSXE/view?usp=sharing)
 
-We're 3 founders and 3 engineers, looking for our 7th person. Our early team comes from Twitter, Google, Accenture, scaling startups and successful exits. The CEO of LaunchScience sold his previous company to a large telecommunications company for >$100 million.
+## Why work with me?
 
-Our mostly-remote team has been collaborating together for 1 year. We've introduced our product to an open-Beta with a select group of customers and a list of hundreds on our waitlist. We expect to launch to the public in the coming months.
+I'm a highly motivated employee (self-starter). I have helped engineer React Applications in the eCommerce (retail), Banking, and HealthCare industries over my career. My experience ranges from wearing many hats in fast-growing startups to building highly scalable applications in companies such as American Express. These applications ranged from internal to customer facing with millions of impressions. In addition, in my most recent role at vitaCare (subsidiary of GoodRx), I was tasked with architecting, implementing, and documenting all UI Applications. In the two+ years in this role three applications were created utilizing React, Typescript, Jest, RTL, GraphQL, Next.JS, and Redux. Lastly, I took great pride in all the UI applications maintaining a 100% Unit Test Coverage this ensured high confidence when shipping our code to production environments. I am highly proficient in Javascript UI Applications though I would like to extend my knowledge to the backend. Lastly, I'm eager to teach when necessary and learn whenever I am afforded the opportunity.
 
-## Why work with us?
+## What doing my best work means
 
-### This is a software team where you can do the best work in your career.
+I've worked for small, medium, and large organizations. Truthfully, I want my work to matter and make a difference to the organization. I have confidence in my UI abilities, and I know I can write scalable and maintainable code. Doing my best work means I'm proud of the product I am building. It means laying it out there and being able to live with the result. **Doing my best work means, being the tide that lifts all boats.**
 
-We believe that a great product is only possible with great engineering. And we've found that a high quality web UX moves the needle for our target customer. So we're investing in ways for engineers to do great work here:
+## Why I will excel
 
-- *Continuous delivery:* every pull-request merge goes to production. We ship dozens of times per day.
-- *PR dev environments:* any engineer can spin up an unlimited number of full-stack instances of our application, open to the internet, using git.
-- *Automated infrastructure:* all of our infrastructure is managed with an infra-as-code system. Changes are safe and easy.
-
-### We're in a big market with a lot of upside
-
-- Every product team in the world faces the problems that LaunchScience is solving!
-
------
-
-# We are hiring for:
-
-# :hammer: Senior Software Engineer, Frontend-focus
-
-## High level
-
-- Location: US Remote (east coast time-zone preferred). Office access in New York City, if you're based there. Occasional travel for team offsites.
-- Report directly to the CTO.
-- Collaborate to build a high-quality web product.
-- Build on the frontend with TypeScript, React, Tailwind, Cypress & Storybook.
-- Partner closely with the CEO, head of design and a growing engineering team to determine the product and company we build together.
-
-## People who will excel in this role
-
-- Have 4 or more years of Software Engineering experience as a UI or Frontend specialist.
-- Have managed frontend applications in production.
-- Thrive in an environment with lots of unknowns and lots of blank space for new ideas.
-- Like to advocate for best practices and newer technologies.
-- Sweat the details but know how to balance trade-offs when required.
+- [x] **Have 4 or more years of Software Engineering experience as a UI or Frontend specialist.**
+    - 5+ Years Engineering on UI from Legacy applications to Next.JS built upon React hosted in AWS Amplify.
+- [x] **Have managed frontend applications in production.**
+    - Shipped code to Prod for companies such as Office Depot, Amex, and subsidiary of GoodRx.
+- [x] **Thrive in an environment with lots of unknowns and lots of blank space for new ideas.**
+    - Lets brainstorm. 
+- [x] **Like to advocate for best practices and newer technologies.**
+    - Say it louder for the people in the back!
+- [x] **Sweat the details but know how to balance trade-offs when required.**
+    - A fine balance is key. You pick: Cheap, quick, or quality, but you can only pick 2!
 
 ## What would set you apart
 
-- If you're known for excellent communication skills.
-- If you could teach a class on TypeScript, React, Slate, Mantine or other tools of the modern web.
-- You've done some design in Figma before.
-- You have experience with Python, Django, Postgres, AWS or other elements of full-stack web development.
-- You understand the startup journey and have seen the path to product-market-fit.
+- [x] **If you're known for excellent communication skills.**
+    - How am I doing?
+- [x] **If you could teach a class on TypeScript, React, Slate, Mantine or other tools of the modern web.**
+    - I gave a talk on benefits of Typescript at CareCloud to UI Guild (does this count?)
+- [x] **You've done some design in Figma before.**
+    - Collaborated in Figma with UI Designers, have an inordinate amount of experience in Adobe Indesign (not on resume, was for a startup as well)
+- [ ] **You have experience with Python, Django, Postgres, AWS or other elements of full-stack web development.**
+    - Finally stumped me, I have limited experience with AWS and Google Cloud services. Give me a chance to learn more. My experience is in AWS Amplify where he hosted a UI app.
+- [x] **You understand the startup journey and have seen the path to product-market-fit.**
+    - This journey isn't for the feint of heart. "We don't have time to keep reviewing all these applications, this guy Nick is what we're looking for." - Sean ::very very soon::
 
-## What we offer
+## Applying via PR ... please review :)
 
-- Competative cash compensation ($140k-200k)
-- Meaningful seed stage startup equity (0.5% - 1%)
-- Medical, dental, vision, 401k match, unlimited PTO.
-- Greenfield software development with 2023 tools.
-- An M2 Macbook Pro, ChatGPT Plus, Github CoPilot and whatever other tools you need to do your best work.
+In all seriousness Sean, if you are still reading I would love to learn more about what you're trying to build. I am not toting myself as the absolute best, far from it. There are gaps, but I do believe I can contribute in a meaningful way. Hopefully, I've shown my creativity and willingness to go above and beyond. 
 
-## How to Apply
-
-Does this role sound like a good fit? Email the CTO with your resume and why you want to work at LaunchScience: **sean@launchscience.com**
+P.S. I'm going to spam your inbox with my resume as well.
